@@ -27,7 +27,7 @@ No requiere instalar librerías externas.
 Desde una terminal, ubíquese en la carpeta donde se encuentra el archivo y ejecute:
 
 ```bash
-python Solution.py
+python SwapNodes.py
 ```
 
 El programa espera los datos de entrada por la entrada estándar (`stdin`), siguiendo exactamente el formato solicitado por HackerRank.
@@ -87,7 +87,7 @@ No requiere instalar librerías externas.
 Desde una terminal, ubíquese en la carpeta donde se encuentra el archivo y ejecute:
 
 ```bash
-python Solution.py
+python TreeHuffmanDecoding.py
 ```
 
 Ingrese una cadena de texto cuando el programa lo solicite.
